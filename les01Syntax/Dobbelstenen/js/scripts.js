@@ -31,5 +31,4 @@ for (let i = 0; i < players.length; i++) {
     Console.ForegroundColor = ConsoleColor.Black;
     Console.BackgroundColor = ConsoleColor.Yellow;
     Console.log(`${getWinner(scores, players)}`);
-    Console.ReadLine();
 }
