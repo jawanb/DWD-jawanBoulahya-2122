@@ -1,1 +1,7 @@
-# DWD-jawanBoulahya-2122
+# Dynamic Web Development
+
+- Academiejaar: 
+- Opleiding: 
+- Klasgroep: 
+- Naam: 
+
